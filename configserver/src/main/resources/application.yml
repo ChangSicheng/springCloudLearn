@@ -1,0 +1,18 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/southwind9801/myspringclouddemo.git #Git 仓库配置文件信息。
+          searchPaths: config #配置文件路径。
+          username: root  #访问 Git Repository 的用户名
+          password: root
+      label: master #Git Repository 的分支
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comsumer/comsumer.iml" filepath="$PROJECT_DIR$/comsumer/comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configClient/configClient.iml" filepath="$PROJECT_DIR$/configClient/configClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gataway/gateway.iml" filepath="$PROJECT_DIR$/gataway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspringclouddemo.iml" filepath="$PROJECT_DIR$/myspringclouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registryCenter/registryCenter.iml" filepath="$PROJECT_DIR$/registryCenter/registryCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+    </modules>
+  </component>
+</project>

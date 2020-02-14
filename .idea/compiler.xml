@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comsumer" />
+        <module name="configClient" />
+        <module name="configserver" />
+        <module name="feign" />
+        <module name="gataway" />
+        <module name="gateway" />
+        <module name="hystrix" />
+        <module name="provider" />
+        <module name="registryCenter" />
+        <module name="ribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comsumer" target="1.8" />
+      <module name="configClient" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="gataway" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="hystrix" target="1.8" />
+      <module name="myspringclouddemo" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="registryCenter" target="1.8" />
+      <module name="ribbon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
